@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: FocusedYoutube.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2JJKFmJFsq1vcMb+4dkL0kS59Vc=
+SHA256-Digest: DyFCN8fj0dAqv42EaiF0W8jSShRCperpcpsphtMS7Ws=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: evuN+NnPFlThAwfOEUmoWg3+MnA=
+SHA256-Digest: 3gmq0fn4EtV1sfryck1Dr2KtcS5Ce+4McsBl9ok0N/Q=
+
+Name: options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WQZdmt2fvT9N1ftvtgcGrj9veiI=
+SHA256-Digest: qrTdLV5Lfs5+AutBWxPMtlEnc/ilLj5NWR8WQSMpLFs=
+
+Name: options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QwsPEO1LKBk5cB+NkXS9uZt3Ark=
+SHA256-Digest: ISLDzmGIdu0QIIi7w5zLYSO6h79gmP0oClhj3pfqXQY=
+
+Name: style.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: vpb4vJBx4qAxrtR+IUg7hCosudM=
+SHA256-Digest: lqhgB+0xUYn/4h6szHZ17LoQGlS2FhufNdEjQ1yenHI=
+
+Name: icons/FocusedYoutube-48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Lvt7M4l8jpq/TkplY6JF2qvX6q8=
+SHA256-Digest: yHDW4Qptk43fncO6zHhiACRjg2grJ8qqOT03eAi+Cxw=
+
+Name: icons/FocusedYoutube-96.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lqfUkhwAhK6a9dCb5qkgNOh/2lg=
+SHA256-Digest: Cp+St+w64bvjbduicylld7hPAnH/rb9i90EYmG+qknk=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nX1fIHHlC04Ll21adQumh+3xbso=
+SHA256-Digest: AwTs4qW+fukem8pCXq1K83tLSM6ztaHZ56iTT5Yu7+Q=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Bgs8fuiHXMXP/8YOMVZ5XWWcnI0=
+SHA256-Digest: p/+DvjHliGtxnLiM3VlqlaRSo3qTSLnl8Lqfi6IHqzM=
+

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<style>
+			form {
+				display: grid;
+				font-size: 13pt;
+				font-weight: bold;
+				grid-template-columns: auto auto;
+				font-family: arial;
+				padding: 10px;
+				cursor: pointer;
+			}
+			form label {
+				vertical-align: middle;
+				padding: 10px;
+			}
+			input[type=checkbox] {
+				transform: scale(1.5);
+				margin: 20px;
+			}
+			#success {
+				width: 50%;
+				padding: 5px;
+				font-size: 14pt;
+				font-weight: bold;
+				margin: 0 auto;
+				text-align: center;
+				color: green;
+				transition: 0.5s all;
+				opacity: 0;
+			}
+		</style>
+	</head>
+
+	<body>
+		<form>
+				<label for="core">Hide all suggestions from overlaying video content</label><input type="checkbox" id="core" disabled checked>
+				<label for="core-right">Hide video recommends from the right sidebar</label><input type="checkbox" id="core-right" disabled checked>
+				<label for="homescreen">Hide main homescreen content</label><input type="checkbox" id="homescreen">
+				<label for="comments">Hide the comments section</label><input type="checkbox" id="comments">
+				<label for="toolbar">Hide all toolbars except the search box</label><input type="checkbox" id="toolbar">
+				<label for="next">Allow showing the next video if in a playlist</label><input type="checkbox" id="next">
+				<label for="playlist">Allow showing the current playlist if applicable</label><input type="checkbox" id="playlist">
+		</form>
+		<div id="success">...</div>
+		<script src="options.js" defer></script>
+
+	</body>
+</html>

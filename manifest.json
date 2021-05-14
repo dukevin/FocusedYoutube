@@ -1,0 +1,34 @@
+{
+
+  "manifest_version": 2,
+  "name": "Focused Youtube",
+  "version": "6",
+  "homepage_url": "https://github.com/dukevin/FocusedYoutube",
+  "description": "Remove video suggestions and distractions from Youtube",
+
+  "icons": {
+    "48": "icons/FocusedYoutube-48.png",
+    "96": "icons/FocusedYoutube-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "css": ["style.css"],
+      "js": ["FocusedYoutube.js"]
+    }
+  ],
+
+  "options_ui": {
+    "page": "options.html"
+  },
+
+  "permissions": ["storage"],
+
+  "applications": {
+    "gecko": {
+      "id": "FocusedYoutube@dukevin.com"
+    }
+  }
+
+}
