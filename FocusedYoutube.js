@@ -1,7 +1,9 @@
 function implementComments(saved)
 {
-	if(saved.comments)
+	if(saved.comments) {
 		document.getElementById("comments").style.display = "none";
+		document.getElementById("comments").style.opacity = "0";
+	}
 }
 function implementHomescreen(saved)
 {
