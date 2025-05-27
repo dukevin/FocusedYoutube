@@ -1,6 +1,6 @@
 #related, .ytp-suggestion-set, .ytp-ce-element, .ytp-paid-content-overlay,
 .ytp-pause-overlay, .iv-promo, .ytp-endscreen-next, .ytp-endscreen-previous,
-.branding-img-container {
+.branding-img-container, iron-selector {
     display: none !important;
 }
 .ytd-watch {

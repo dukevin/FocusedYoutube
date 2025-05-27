@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Focused Youtube",
-  "version": "7",
+  "version": "8",
   "homepage_url": "https://github.com/dukevin/FocusedYoutube",
   "description": "Remove video suggestions and distractions from Youtube",
 
