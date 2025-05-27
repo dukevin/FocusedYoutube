@@ -7,3 +7,7 @@
     padding-right: 0 !important;
     box-sizing: initial;
 }
+/* Mobile-specific: hide Up Next rail on m.youtube.com */
+ytd-compact-autoplay-renderer {
+    display: none !important;
+}
