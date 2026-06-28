@@ -1,6 +1,7 @@
 #related, .ytp-suggestion-set, .ytp-ce-element, .ytp-paid-content-overlay,
 .ytp-pause-overlay, .iv-promo, .ytp-endscreen-next, .ytp-endscreen-previous,
-.branding-img-container, iron-selector {
+.branding-img-container, iron-selector,
+.single-column-watch-next-modern-panels[section-identifier="related-items"] {
     display: none !important;
 }
 .ytd-watch {

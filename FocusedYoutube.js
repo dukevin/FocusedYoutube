@@ -4,7 +4,8 @@
 const OPTIONAL_RULES = {
   comments: `#comments { display: none !important; }`,
   homescreen: `
-    ytd-browse[page-subtype="home"] #contents {
+    ytd-browse[page-subtype="home"] #contents,
+    div[tab-identifier="FEwhat_to_watch"] {
       display: none !important;
     }
   `,
