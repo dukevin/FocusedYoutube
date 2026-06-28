@@ -4,7 +4,6 @@
 const OPTIONAL_RULES = {
   comments: `#comments { display: none !important; }`,
   homescreen: `
-    ytd-rich-grid-renderer,
     ytd-browse[page-subtype="home"] #contents {
       display: none !important;
     }
